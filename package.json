@@ -1,9 +1,8 @@
 {
-  "name": "mern-mediastream",
-  "version": "2.0.0",
-  "description": "A MERN stack based media streaming application",
-  "author": "Shama Hoque",
-  "license": "MIT",
+  "name": "play-media",
+  "version": "1.0.0",
+  "description": "media streaming application",
+  "author": "Vishal Sharaf",
   "keywords": [
     "react",
     "express",
